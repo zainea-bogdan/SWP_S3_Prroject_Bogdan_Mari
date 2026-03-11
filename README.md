@@ -52,6 +52,11 @@ python -m venv venv
 pip install streamlit pandas plotly matplotlib
 ```
 
+# Streamlit link:
+
+[Click here](https://swps3projectbogdanmari-j2xzw4sh2azrszy95pzlcg.streamlit.app/)
+
 # Credits:
 
 Collaborators: [**mariazorila4**](https://github.com/mariazorila4)
+
